@@ -1,0 +1,13 @@
+C:\Users\uckan\source\repos\Checker Source Code\Checker Source Code\bin\Debug\Checker Source Code.exe.config
+C:\Users\uckan\source\repos\Checker Source Code\Checker Source Code\bin\Debug\Checker Source Code.exe
+C:\Users\uckan\source\repos\Checker Source Code\Checker Source Code\bin\Debug\Checker Source Code.pdb
+C:\Users\uckan\source\repos\Checker Source Code\Checker Source Code\bin\Debug\Colorful.Console.dll
+C:\Users\uckan\source\repos\Checker Source Code\Checker Source Code\bin\Debug\Leaf.xNet.dll
+C:\Users\uckan\source\repos\Checker Source Code\Checker Source Code\bin\Debug\xNet.dll
+C:\Users\uckan\source\repos\Checker Source Code\Checker Source Code\obj\Debug\Checker Source Code.csproj.AssemblyReference.cache
+C:\Users\uckan\source\repos\Checker Source Code\Checker Source Code\obj\Debug\Checker_Source_Code.Properties.Resources.resources
+C:\Users\uckan\source\repos\Checker Source Code\Checker Source Code\obj\Debug\Checker Source Code.csproj.GenerateResource.cache
+C:\Users\uckan\source\repos\Checker Source Code\Checker Source Code\obj\Debug\Checker Source Code.csproj.CoreCompileInputs.cache
+C:\Users\uckan\source\repos\Checker Source Code\Checker Source Code\obj\Debug\Checker Source Code.csproj.CopyComplete
+C:\Users\uckan\source\repos\Checker Source Code\Checker Source Code\obj\Debug\Checker Source Code.exe
+C:\Users\uckan\source\repos\Checker Source Code\Checker Source Code\obj\Debug\Checker Source Code.pdb
